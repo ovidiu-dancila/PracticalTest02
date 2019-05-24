@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="get">Get</string>
+    <string name="cuvant">Cuvant</string>
+    <string name="word">Word</string>
+    <string name="ln">ln</string>
+    <string name="port">Port</string>
+    <string name="address">Address</string>
+    <string name="client">Client</string>
+    <string name="connect">Connect</string>
+    <string name="server">Server</string>
+</resources>
